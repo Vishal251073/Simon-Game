@@ -64,3 +64,12 @@ body {
       color: wheat;
       font-family: 'Press Start 2P', cursive;
   }
+
+@media (max-width: 1105px){
+    .container{
+        width: 100%;
+    }
+    #ifr{
+        width: fit-content;
+    }
+  }
